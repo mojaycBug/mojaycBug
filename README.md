@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mojaycBug
+- 👋 Hi, I’m @mojayc
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning computer programming 
 - 💞️ I’m looking to collaborate on ...
